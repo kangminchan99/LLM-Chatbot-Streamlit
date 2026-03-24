@@ -1,0 +1,38 @@
+# Environment variables
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Python version
+.python-version
+
+# Vector DB
+chroma_db/
+faiss_index/
+
+# Logs
+*.log
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+chroma/
+tax_docs/
