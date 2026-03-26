@@ -22,8 +22,6 @@ env/
 .DS_Store
 Thumbs.db
 
-# Python version
-.python-version
 
 # Vector DB
 chroma_db/
